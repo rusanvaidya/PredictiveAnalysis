@@ -1,0 +1,9 @@
+Pandas is a Python package developed for data cleaning and manipulation.
+It provides extended data structures to hold different types of labeled
+and relational data, which makes it highly flexible and easy to use.
+
+Pandas provides the following two objects on which all its operations are performed:
+
+Series: A 1-dimensional table object
+
+Dataframe: A 2-dimensional table object

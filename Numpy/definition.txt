@@ -1,0 +1,14 @@
+NumPy can be defined as an interactive Python package for array
+processing, and it is mostly used to perform scientific programming.
+It can also hold generic data in a container with n-dimensions.
+
+Features of NumPy #
+Faster than conventional arrays
+
+Takes less space than conventional arrays
+
+Provides extended functionalities
+
+Size and type of array is fixed; this is defined at creation
+
+Cannot append new values like lists
